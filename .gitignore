@@ -1,5 +1,103 @@
+<<<<<<< HEAD
 venv/ 
 data/ 
 *.pkl 
 *.h5 
 __pycache__/ 
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# Virtual Environment
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.envrc
+
+# IDE
+.vscode/
+.idea/
+
+# =========================
+# Parkinsons Project Files
+# =========================
+
+# Dataset folder
+data/
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
+*.pt
+*.pth
+
+# Media files
+*.mp4
+*.wav
+*.jpg
+*.png
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+>>>>>>> 9535154887c37886b63551184e3e2630d6d3d7db
