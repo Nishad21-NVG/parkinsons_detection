@@ -90,6 +90,9 @@ The system integrates multiple AI models into a single web application using **F
                           | Parkinson / No|
                           +---------------+
 
+## 📁 Project Structure
+
+```
 parkinsons_detection/
 │
 ├── backend/
@@ -129,9 +132,7 @@ parkinsons_detection/
 ├── README.md                     # Project documentation
 ├── .gitignore                    # Ignore unnecessary files
 └── main.py                       # Main integration script
-
-
----
+```
 
 ## ▶️ How to Run the Project
 
